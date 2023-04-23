@@ -1,6 +1,6 @@
 # 100 Days of ML - Day 15: NLP, Tokenization, and Stemming
 
-On Day 15 of the 100 Days of ML challenge, we explore Natural Language Processing (NLP) concepts such as tokenization and stemming using the NLTK library in Python. This project aims to preprocess a sample text by performing word and sentence tokenization, stopword removal, and stemming.
+On Day 15 of the 100 Days of ML challenge, we explore the Natural Language Processing (NLP) concepts tokenization and stemming using the NLTK library in Python. This project aims to preprocess a sample text by performing word and sentence tokenization, stopword removal, and stemming.
 
 ### Project Structure
 
